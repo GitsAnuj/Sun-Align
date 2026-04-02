@@ -1,0 +1,1 @@
+Designed and developed a smart solar panel system that automatically adjusts its position based on sunlight intensity to maximize energy efficiency . • Implemented LDR (Light Dependent Resistors) to detect sunlight direction and control a servo motor for panel rotation.
